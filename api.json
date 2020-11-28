@@ -2,24 +2,99 @@
   "dados": [
     {
       "id": 1,
-      "title": "Leanne Graham",
-      "img": "Bret",
-      "equipe": "Sincere@april.biz",
-      "download": "link aqui"
+      "title": "Pikmin 3 Deluxe",
+      "img": "https://store.nintendo.com.br/media/catalog/product/cache/1aff59ff6f21b2058ac5563c018426d7/p/i/pikmin3_1920x1080.jpg",
+      "equipe": "Traduções PKG",
+      "creditos": "https://traducoespkg.wixsite.com/website",
+      "download": "https://drive.google.com/file/d/12YBZTgCLyH-PdQ60g9FEPGP31VLzUcP2/view"
     },
-	{
+	  {
       "id": 2,
-      "title": "Leanne Graham",
-      "img": "Bret",
-      "equipe": "Sincere@april.biz",
-      "download": "link aqui"
+      "title": "Paper Mario The Origami King",
+      "img": "https://store.nintendo.com.br/media/catalog/product/cache/1aff59ff6f21b2058ac5563c018426d7/1/9/1920x1080_eshopherobanner_aruua.jpg",
+      "equipe": "Traduções PKG",
+      "creditos": "https://traducoespkg.wixsite.com/website",
+      "download": "https://drive.google.com/file/d/1Xhqc0IavcS0hIWjDwvKoL_TEPWPyBxlh/view"
     },
-	{
+	  {
       "id": 3,
-      "title": "Leanne Graham",
-      "img": "Bret",
-      "equipe": "Sincere@april.biz",
-      "download": "link aqui"
+      "title": "The Legen Of Zelda - Breath Of The Wild",
+      "img": "https://store.nintendo.com.br/media/catalog/product/cache/1aff59ff6f21b2058ac5563c018426d7/z/e/zeldabow_hero_2.jpg",
+      "equipe": "Zelda Tradução",
+      "creditos": "https://www.facebook.com/zeldatraducao/",
+      "download": "https://onedrive.live.com/?authkey=%21APwLtmgVYlFrnkQ&cid=C52AA347B58250B9&id=C52AA347B58250B9%21125&parId=C52AA347B58250B9%21122&o=OneUp"
+    },
+	  {
+      "id": 4,
+      "title": "Pokémon: Let’s Go, Eevee and Pikachu!",
+      "img": "https://store.nintendo.com.br/media/catalog/product/cache/1aff59ff6f21b2058ac5563c018426d7/p/o/pok_mon_let_s_go_eevee_banner.jpg",
+      "equipe": "Team Xeno Traduções",
+      "creditos": "https://dmoreirax.wixsite.com/pokemonswitchbrasil",
+      "download": "https://www.mediafire.com/file/0c0ocili0i3xjab/Pokemon_Lets_GO_PT-BR_FINAL.rar/file"
+    },
+	  {
+      "id": 5,
+      "title": "Pokémon Sword and Shield",
+      "img": "https://store.nintendo.com.br/media/catalog/product/cache/1aff59ff6f21b2058ac5563c018426d7/p/o/pokemonsw_1920x1080.jpg",
+      "equipe": "Team Xeno Traduções",
+      "creditos": "https://dmoreirax.wixsite.com/website-1",
+      "download": "https://dmoreirax.wixsite.com/website-1/copia-sobre"
+    },
+	  {
+      "id": 6,
+      "title": "Xenoblade Chronicles 2",
+      "img": "https://store.nintendo.com.br/media/catalog/product/cache/1aff59ff6f21b2058ac5563c018426d7/x/e/xeno2_hero_1920x1080_1.jpg",
+      "equipe": "Mafra Team",
+      "creditos": "https://www.traducao-xbc2.com/",
+      "download": "https://drive.google.com/uc?id=1IQwbt-0Gt0ryaga5MQ1Cgz9AftfsD5CH&export=download"
+    },
+	  {
+      "id": 7,
+      "title": "Unravel Two",
+      "img": "",
+      "equipe": "",
+      "creditos": "",
+      "download": ""
+    },
+	  {
+      "id": 8,
+      "title": "Octopatch Traveller",
+      "img": "",
+      "equipe": "",
+      "creditos": "",
+      "download": ""
+    },
+	  {
+      "id": 9,
+      "title": "Resident Evil",
+      "img": "",
+      "equipe": "Mafra Team",
+      "creditos": "https://www.traducao-xbc2.com/",
+      "download": "http://www.mediafire.com/file/bazznwe3kjrgl9h/Resident_Evil_HD_Remaster.rar/file"
+    },
+	  {
+      "id": 10,
+      "title": "Metro Last Light Redux",
+      "img": "",
+      "equipe": "",
+      "creditos": "",
+      "download": ""
+    },
+	  {
+      "id": 11,
+      "title": "The Legend Of Zelda - Link's Awakening",
+      "img": "",
+      "equipe": "",
+      "creditos": "",
+      "download": ""
+    },
+	  {
+      "id": 12,
+      "title": "Donkey Kong Country - Tropical Freeze",
+      "img": "",
+      "equipe": "",
+      "creditos": "",
+      "download": ""
     }
   ]
 }
