@@ -51,23 +51,23 @@
 	  {
       "id": 7,
       "title": "Unravel Two",
-      "img": "",
-      "equipe": "",
-      "creditos": "",
-      "download": ""
+      "img": "https://store.nintendo.com.br/media/catalog/product/cache/ee0bfdff899e549bedae78026e71571d/u/r/urvl2_switch_software_banner_1920x1080.jpg",
+      "equipe": "Tribo Gamer - PC/Traduções PKG - NSW",
+      "creditos": "https://traducoespkg.wixsite.com/website",
+      "download": "https://drive.google.com/open?id=1Uh8wXyNm4U9MVvIHdNFNg7Pog2T10DIw"
     },
 	  {
       "id": 8,
-      "title": "Octopatch Traveller",
-      "img": "",
-      "equipe": "",
-      "creditos": "",
-      "download": ""
+      "title": "Octopath Traveller",
+      "img": "https://store.nintendo.com.br/media/catalog/product/cache/1aff59ff6f21b2058ac5563c018426d7/p/r/projectoctopathtraveller-banner5-1080p-all_2.jpg",
+      "equipe": "Traduções PKG",
+      "creditos": "https://traducoespkg.wixsite.com/website",
+      "download": "https://drive.google.com/open?id=1YlMbjxs15dF8rsfknWPnBFqlr-MN9JY7"
     },
 	  {
       "id": 9,
       "title": "Resident Evil",
-      "img": "",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdor_UGI1CB39T0Ro4DAZ4lYWZLhzHbhHFnioPUUZleH9fjDrx",
       "equipe": "Mafra Team",
       "creditos": "https://www.traducao-xbc2.com/",
       "download": "http://www.mediafire.com/file/bazznwe3kjrgl9h/Resident_Evil_HD_Remaster.rar/file"
@@ -75,26 +75,26 @@
 	  {
       "id": 10,
       "title": "Metro Last Light Redux",
-      "img": "",
-      "equipe": "",
-      "creditos": "",
-      "download": ""
+      "img": "https://steamcdn-a.akamaihd.net/steam/apps/287390/capsule_616x353.jpg?t=1600354228",
+      "equipe": "Tribo Gamer - PC/Traduções PKG - NSW",
+      "creditos": "https://traducoespkg.wixsite.com/website",
+      "download": "https://drive.google.com/open?id=137UYvuEtXVlzKoqJc_UTrNqojStgd6vl"
     },
 	  {
       "id": 11,
       "title": "The Legend Of Zelda - Link's Awakening",
-      "img": "",
-      "equipe": "",
-      "creditos": "",
-      "download": ""
+      "img": "https://store.nintendo.com.br/media/catalog/product/cache/1aff59ff6f21b2058ac5563c018426d7/z/e/zeldalinksawakening-swbanner-v2-1920x1080.jpg",
+      "equipe": "Heroes Of Time Brasil",
+      "creditos": "https://www.facebook.com/HeroesOfTimeBrasil/",
+      "download": "https://www.mediafire.com/file/5sbyhpcdoaaz089/The_Legend_of_Zelda_Links_Awakening.zip/file"
     },
 	  {
       "id": 12,
-      "title": "Donkey Kong Country - Tropical Freeze",
-      "img": "",
-      "equipe": "",
-      "creditos": "",
-      "download": ""
+      "title": "Super Mario 3D Sunshine",
+      "img": "https://store.nintendo.com.br/media/catalog/product/cache/1aff59ff6f21b2058ac5563c018426d7/h/a/hac_herobanner_stars.jpg",
+      "equipe": "Traduções PKG",
+      "creditos": "https://traducoespkg.wixsite.com/website",
+      "download": "https://drive.google.com/drive/folders/1sb_VLKfw5AavJ-cOJfD6DqXHoKnSNsso?usp=sharing"
     }
   ]
 }
